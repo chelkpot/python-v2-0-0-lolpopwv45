@@ -2,7 +2,10 @@
 
 def solve():
 # Ниже пишите решение задачи
-
+    A = int(input())
+    Y = int(input())
+    Z = int(input())
+    print(A * 3 + Y * 5 + Z * 12)
    
 
    
